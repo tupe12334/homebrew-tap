@@ -1,8 +1,8 @@
 class Holstered < Formula
   desc "Hands your coding agent the right skill for each prompt"
   homepage "https://github.com/tupe12334/holstered"
-  url "https://github.com/tupe12334/holstered/archive/refs/tags/v1.1.0.tar.gz"
-  sha256 "15351844dd2b5bb7a78a29a0e62fdfb522d349e1d04c6ad3243d1d608ec28da5"
+  url "https://github.com/tupe12334/holstered/archive/refs/tags/v1.2.0.tar.gz"
+  sha256 "beff1e19f0334507813a3596f1b4cf66e7efe3c54dede5a29f7a09b16baaf074"
   license "MIT"
 
   depends_on "rust" => :build
