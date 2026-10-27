@@ -9,3 +9,7 @@ brew install tupe12334/tap/holstered
 | Formula | Project |
 |---|---|
 | `holstered` | [tupe12334/holstered](https://github.com/tupe12334/holstered) |
+
+## Related projects
+
+- [moadim](https://moadim.io/) — loop engineering: build, schedule & run agent loops.
